@@ -6,4 +6,4 @@ ${browser_4}           opera
 ${browser_5}           safari
 ${headless_1}          headlesschrome
 ${headless_2}          headlessfirefox
-${url}        https://www.idntimes.com/     
+${url}        https://music.youtube.com/  
