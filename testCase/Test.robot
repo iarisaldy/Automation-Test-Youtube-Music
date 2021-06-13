@@ -1,9 +1,6 @@
 *** Settings ***
 Library  SeleniumLibrary
-Resource    ../../datapool/datapool_browserURL.robot
-Resource    ../../datapool/datapool_user.robot
-Resource    ../../objectRepository/objectRepo_pageSignIn.robot
-Resource    ../../objectRepository/objectRepo_topBar.robot
+Resource    ../datapool/datapool_browserURL.robot
 
 *** Variables ***
 ${user text}      xpath=//*[@id="dashboard"]/aside/nav/ul/li[1]/div/div/h4
