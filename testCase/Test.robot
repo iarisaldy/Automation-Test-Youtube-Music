@@ -3,7 +3,7 @@ Library  SeleniumLibrary
 Resource    ../datapool/datapool_browserURL.robot
 
 *** Variables ***
-${user text}      xpath=//*[@id="dashboard"]/aside/nav/ul/li[1]/div/div/h4
+
 
 ***Keywords***
 Open Browser
